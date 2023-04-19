@@ -1,0 +1,136 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.border{
+	text-align: center;
+	border:2px solid;
+    padding: 50px;
+	word-spacing:20px;
+	margin-top:200px;
+}
+.btn_primary{
+	background-color:#446eeb;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+.btn_primary:hover{
+	background-color:#052073;
+	transition:0.7s;
+}
+.btn_secondary{
+	background-color:#7c7e82;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_secondary:hover{
+	background-color:#535457;
+	transition:0.7s;}
+
+.btn_success{
+	background-color:#2aa13a;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_success:hover{
+	background-color:#196924;
+	transition:0.7s;}
+
+.btn_danger{
+	background-color:#d13636;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_danger:hover{
+	background-color:#821616;
+	transition:0.7s;}
+
+.btn_warning{
+	background-color:#e8c00e;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_warning:hover{
+	background-color:#a39307;
+	transition:0.7s;}
+
+.btn_info{
+	background-color:#3ecfc0;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_info:hover{
+	background-color:#059687;
+	transition:0.7s;
+}
+
+.btn_light{
+	background-color:#e1e6e6;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+}
+
+.btn_light:hover{
+	background-color:#8a9191;
+	transition:0.7s;
+}
+
+.btn_dark{
+	background-color:#0c0f0f;
+	border:none;
+	padding:7px 26px;
+	border-radius:3px;
+	font-weight:bold;
+	transition:0.7s;
+	color:white;
+}
+
+.btn_dark:hover{
+	background-color:#fa8507;
+	transition:0.7s;
+}
+
+.Link{
+	border:none;
+	background-color:transparent;
+	cursor:point;
+	font-weight:bold;
+	text-decoration:underline;
+
+}
+
+
+
